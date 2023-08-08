@@ -1,5 +1,11 @@
 # nodejs-typescript-cli-template
 
+## 0.1.2
+
+### Patch Changes
+
+- [`5b752bc`](https://github.com/saadfrhan/bank-cli/commit/5b752bc1858c98708c65110c2c3bea30fbab7d51) Thanks [@saadfrhan](https://github.com/saadfrhan)! - change metadata
+
 ## 0.1.1
 
 ### Patch Changes
