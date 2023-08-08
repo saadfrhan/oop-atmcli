@@ -1,5 +1,12 @@
 # nodejs-typescript-cli-template
 
+## 0.1.1
+
+### Patch Changes
+
+- [`4e69360`](https://github.com/saadfrhan/bank-cli/commit/4e6936006684ba36c02b822a3b3a857194f4fc96) Thanks [@saadfrhan](https://github.com/saadfrhan)! - - Remove dependabot.yml
+  - Change package name.
+
 ## 0.1.0
 
 ### Minor Changes
