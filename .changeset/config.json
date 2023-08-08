@@ -1,6 +1,11 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.3.1/schema.json",
-  "changelog": ["@changesets/changelog-github", {"repo": "saad-shamsi/cli-nodejs-typescript-cli-template"}],
+  "changelog": [
+    "@changesets/changelog-github",
+    {
+      "repo": "saadfrhan/bank-cli"
+    }
+  ],
   "commit": false,
   "fixed": [],
   "linked": [],
