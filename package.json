@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-typescript-cli-template",
+  "name": "bank-cli",
   "version": "0.1.0",
   "description": "Node.js TypeScript CLI Template for building command-line applications.",
   "keywords": [
