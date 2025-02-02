@@ -5,7 +5,7 @@ This is a simple CLI application that simulates an ATM. It is built using Node.j
 ## Setup
 
 ```bash
-git clone https://github.com/saadfrhan/atmcli
+git clone https://github.com/saadfrhan/oop-atmcli
 cd atmcli
 pnpm i
 pnpm build
